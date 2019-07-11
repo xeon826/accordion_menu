@@ -1,0 +1,23 @@
+{
+  "name": "accordion_menu",
+  "version": "1.0.0",
+  "description": "An accordion menu",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeon826/accordion_menu.git"
+  },
+  "keywords": [
+    "accordion",
+    "menu"
+  ],
+  "author": "some person on a codepen-like site that neglected to create a git repo for it so here we are.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeon826/accordion_menu/issues"
+  },
+  "homepage": "https://github.com/xeon826/accordion_menu#readme"
+}
